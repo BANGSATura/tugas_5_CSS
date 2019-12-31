@@ -1,0 +1,17 @@
+td {
+  list-style: none;
+}
+td a {
+  color: white;
+}
+header, footer {
+  background-color: black;
+}
+div.slider-div {
+  text-align: center;
+  margin-top: 10px;
+}
+div.footer, div.footer-alamat {
+  color: white;
+  text-align: center;
+}
